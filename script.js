@@ -10,4 +10,5 @@ function play(soundName, soundVolume) {
 
     // Reproducir el audio
     player.play();
+
 }
